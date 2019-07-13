@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/imran/Code/DotnetCore/RabbitMQ/Send/Send.csproj": {}
+  },
+  "projects": {
+    "/home/imran/Code/DotnetCore/RabbitMQ/Send/Send.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/imran/Code/DotnetCore/RabbitMQ/Send/Send.csproj",
+        "projectName": "Send",
+        "projectPath": "/home/imran/Code/DotnetCore/RabbitMQ/Send/Send.csproj",
+        "packagesPath": "/home/imran/.nuget/packages/",
+        "outputPath": "/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/imran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/bin/Debug/netcoreapp2.2/Recieve.deps.json
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/bin/Debug/netcoreapp2.2/Recieve.runtimeconfig.json
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/bin/Debug/netcoreapp2.2/Recieve.runtimeconfig.dev.json
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/bin/Debug/netcoreapp2.2/Recieve.dll
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/bin/Debug/netcoreapp2.2/Recieve.pdb
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.csprojAssemblyReference.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.csproj.CoreCompileInputs.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.AssemblyInfoInputs.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.AssemblyInfo.cs
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.dll
+/home/imran/Code/DotnetCore/RabbitMQ/Recieve/obj/Debug/netcoreapp2.2/Recieve.pdb

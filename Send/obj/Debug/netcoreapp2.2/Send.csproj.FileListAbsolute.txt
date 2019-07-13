@@ -1,0 +1,11 @@
+/home/imran/Code/DotnetCore/RabbitMQ/Send/bin/Debug/netcoreapp2.2/Send.deps.json
+/home/imran/Code/DotnetCore/RabbitMQ/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.json
+/home/imran/Code/DotnetCore/RabbitMQ/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.dev.json
+/home/imran/Code/DotnetCore/RabbitMQ/Send/bin/Debug/netcoreapp2.2/Send.dll
+/home/imran/Code/DotnetCore/RabbitMQ/Send/bin/Debug/netcoreapp2.2/Send.pdb
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.csprojAssemblyReference.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.csproj.CoreCompileInputs.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfoInputs.cache
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfo.cs
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.dll
+/home/imran/Code/DotnetCore/RabbitMQ/Send/obj/Debug/netcoreapp2.2/Send.pdb
